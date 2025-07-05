@@ -46,8 +46,8 @@ Always connect using a read-only database role in production to prevent SQL inje
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langchain-sql-chatbot.git
-cd langchain-sql-chatbot
+git clone https://github.com/anasmalik081/Chat-with-SQL-DB.git
+cd Chat-with-SQL-DB
 ```
 
 ### 2. Create a Virtual Environment
